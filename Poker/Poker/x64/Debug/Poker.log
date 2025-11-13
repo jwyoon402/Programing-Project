@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\User\Desktop\과제\컴퓨터\프로그래밍\코드\Poker\main.c(12,9): warning C4133: '함수': 'int [5]'과(와) 'const char *const ' 사이의 형식이 호환되지 않습니다.
+  Poker.vcxproj -> C:\Users\User\Desktop\과제\컴퓨터\프로그래밍\코드\Poker\x64\Debug\Poker.exe
