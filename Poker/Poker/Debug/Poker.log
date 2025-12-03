@@ -1,2 +1,4 @@
-﻿  main.c
+﻿  function.c
+C:\Users\User\Desktop\과제\컴퓨터\프로그래밍\코드\Poker\function.c(31,13): warning C4098: 'start_program': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\과제\컴퓨터\프로그래밍\코드\Poker\function.c(64,13): warning C4098: 'start_program': 'void' 함수에서 값을 반환하고 있습니다.
   Poker.vcxproj -> C:\Users\User\Desktop\과제\컴퓨터\프로그래밍\코드\Poker\Debug\Poker.exe
